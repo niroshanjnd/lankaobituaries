@@ -1,0 +1,13 @@
+package com.janaka.main;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LankaobituariesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LankaobituariesApplication.class, args);
+	}
+
+}
